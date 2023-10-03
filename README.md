@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a junior year undergraduate student in department of Computer Science and Engineering.<br>Pursuing Bachelor degree at Indian Institute of Technology (IIT), Patna.<br>I'm interested in the Web Development & Software development field and seeking exciting opportunities related to the same.
+I am a senior year undergraduate student in department of Computer Science and Engineering.<br>Pursuing Bachelor degree at Indian Institute of Technology (IIT), Patna.<br>I'm interested in the Web Development and software development field and seeking exciting opportunities related to the same.
 
 
 ## 🌐 Connect me on social platform:
